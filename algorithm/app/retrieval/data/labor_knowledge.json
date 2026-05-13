@@ -1,0 +1,182 @@
+{
+  "legal_sources": [
+    {
+      "source_id": "law:labor-contract:30",
+      "title": "中华人民共和国劳动合同法",
+      "article": "第三十条",
+      "content": "用人单位应当按照劳动合同约定和国家规定，向劳动者及时足额支付劳动报酬。用人单位拖欠或者未足额支付劳动报酬的，劳动者可以依法申请支付令。",
+      "status": "effective",
+      "source_url": "https://www.gov.cn/flfg/2012-12/28/content_2305569.htm",
+      "topics": ["拖欠工资", "劳动报酬", "支付令"]
+    },
+    {
+      "source_id": "law:labor-contract:31",
+      "title": "中华人民共和国劳动合同法",
+      "article": "第三十一条",
+      "content": "用人单位应当严格执行劳动定额标准，不得强迫或者变相强迫劳动者加班。用人单位安排加班的，应当按照国家有关规定向劳动者支付加班费。",
+      "status": "effective",
+      "source_url": "https://www.gov.cn/flfg/2012-12/28/content_2305569.htm",
+      "topics": ["加班", "加班费", "劳动定额"]
+    },
+    {
+      "source_id": "law:labor-contract:48",
+      "title": "中华人民共和国劳动合同法",
+      "article": "第四十八条",
+      "content": "用人单位违反劳动合同法规定解除或者终止劳动合同，劳动者要求继续履行劳动合同的，用人单位应当继续履行；劳动者不要求继续履行或者劳动合同已经不能继续履行的，用人单位应当依法支付赔偿金。",
+      "status": "effective",
+      "source_url": "https://www.gov.cn/flfg/2012-12/28/content_2305569.htm",
+      "topics": ["违法解除", "赔偿金", "继续履行"]
+    },
+    {
+      "source_id": "law:labor-contract:82",
+      "title": "中华人民共和国劳动合同法",
+      "article": "第八十二条",
+      "content": "用人单位自用工之日起超过一个月不满一年未与劳动者订立书面劳动合同的，应当向劳动者每月支付二倍的工资。",
+      "status": "effective",
+      "source_url": "https://www.gov.cn/flfg/2012-12/28/content_2305569.htm",
+      "topics": ["未签书面劳动合同", "二倍工资", "劳动关系"]
+    },
+    {
+      "source_id": "law:labor-dispute-arbitration:6",
+      "title": "中华人民共和国劳动争议调解仲裁法",
+      "article": "第六条",
+      "content": "发生劳动争议，当事人对自己提出的主张，有责任提供证据。与争议事项有关的证据属于用人单位掌握管理的，用人单位应当提供；用人单位不提供的，应当承担不利后果。",
+      "status": "effective",
+      "source_url": "https://www.npc.gov.cn/npc/c2/c183/c198/201905/t20190522_28233.html",
+      "topics": ["举证责任", "证据", "用人单位掌握"]
+    },
+    {
+      "source_id": "law:labor-dispute-arbitration:27",
+      "title": "中华人民共和国劳动争议调解仲裁法",
+      "article": "第二十七条",
+      "content": "劳动争议申请仲裁的时效期间为一年。仲裁时效期间从当事人知道或者应当知道其权利被侵害之日起计算。劳动关系存续期间因拖欠劳动报酬发生争议的，劳动者申请仲裁不受一年仲裁时效期间限制；劳动关系终止的，应当自劳动关系终止之日起一年内提出。",
+      "status": "effective",
+      "source_url": "https://www.npc.gov.cn/npc/c2/c183/c198/201905/t20190522_28233.html",
+      "topics": ["仲裁时效", "一年", "拖欠劳动报酬"]
+    },
+    {
+      "source_id": "law:labor-law:44",
+      "title": "中华人民共和国劳动法",
+      "article": "第四十四条",
+      "content": "有延长工作时间、休息日安排工作且不能补休、法定休假日安排工作等情形的，用人单位应当分别按照不低于工资的一定比例支付工资报酬。",
+      "status": "effective",
+      "source_url": "https://www.npc.gov.cn/c2/c30834/201905/t20190521_296651.html",
+      "topics": ["加班工资", "休息日", "法定休假日"]
+    },
+    {
+      "source_id": "judicial:spc-labor-dispute-interpretation-ii:3",
+      "title": "最高人民法院关于审理劳动争议案件适用法律问题的解释（二）",
+      "article": "第三条",
+      "content": "劳动者被多个存在关联关系的单位交替或者同时用工，请求确认劳动关系的，人民法院应当根据用工管理行为、工作时间、劳动报酬支付、社会保险缴纳等因素综合判断。",
+      "status": "effective",
+      "source_url": "https://gongbao.court.gov.cn/Details/bb72019c45453f84d920bd6375573e.html",
+      "topics": ["关联企业", "劳动关系", "混同用工"]
+    }
+  ],
+  "precedent_cases": [
+    {
+      "source_id": "precedent:spc-typical-overtime-2021-01",
+      "title": "劳动者拒绝违法超时加班安排争议典型案例",
+      "cause": "劳动合同纠纷",
+      "court": "最高人民法院、人力资源社会保障部典型案例",
+      "key_facts": "用人单位安排明显超过法定上限的工作时间，劳动者拒绝违法超时加班安排后发生解除争议。",
+      "court_view": "用人单位规章制度和用工安排不得违反劳动基准；劳动者拒绝违法超时加班安排不宜被评价为严重违纪。",
+      "source_url": "https://www.court.gov.cn/zixun/xiangqing/319151.html",
+      "similarities": ["均需要审查加班安排、规章制度和解除理由"],
+      "differences": ["个案仍需核对实际工时、考勤记录和解除通知"]
+    },
+    {
+      "source_id": "precedent:spc-typical-overtime-2021-03",
+      "title": "加班费争议中审批制度和实际加班事实认定典型案例",
+      "cause": "追索劳动报酬",
+      "court": "最高人民法院、人力资源社会保障部典型案例",
+      "key_facts": "劳动者主张存在加班事实，用人单位抗辩未按内部审批流程申请加班。",
+      "court_view": "加班审批制度不能当然排除已实际安排或默许加班的事实，仍需结合考勤、工作记录、沟通记录等证据判断。",
+      "source_url": "https://www.court.gov.cn/zixun/xiangqing/319151.html",
+      "similarities": ["均关注加班事实和证据链"],
+      "differences": ["当前案件需补充加班日期、时长和审批或安排线索"]
+    },
+    {
+      "source_id": "precedent:spc-typical-overtime-2021-10",
+      "title": "加班费仲裁时效与持续工资支付争议典型案例",
+      "cause": "追索劳动报酬",
+      "court": "最高人民法院、人力资源社会保障部典型案例",
+      "key_facts": "劳动者离职后主张加班工资，用人单位提出超过仲裁时效抗辩。",
+      "court_view": "加班费请求应结合劳动报酬性质、劳动关系存续或终止时间、权利受侵害认知时间等因素审查时效。",
+      "source_url": "https://www.court.gov.cn/zixun/xiangqing/319151.html",
+      "similarities": ["均可能涉及劳动报酬和仲裁时效"],
+      "differences": ["需补充离职时间和首次主张权利时间"]
+    },
+    {
+      "source_id": "precedent:spc-labor-dispute-2025-associated-employment",
+      "title": "关联企业交替用工确认劳动关系典型案例",
+      "cause": "确认劳动关系",
+      "court": "最高人民法院劳动争议典型案例",
+      "key_facts": "劳动者在关联企业之间交替接受管理并提供劳动，工资、社保、考勤主体存在交叉。",
+      "court_view": "应综合用工管理、工资支付、社保缴纳、工作内容等因素识别真实用工主体。",
+      "source_url": "https://www.court.gov.cn/zixun/xiangqing/472681.html",
+      "similarities": ["均需证明实际接受谁的管理"],
+      "differences": ["当前案件需补充工资支付主体、社保主体和管理链条"]
+    },
+    {
+      "source_id": "precedent:spc-labor-dispute-2025-no-written-contract",
+      "title": "未订立书面劳动合同二倍工资争议典型案例",
+      "cause": "劳动合同纠纷",
+      "court": "最高人民法院劳动争议典型案例",
+      "key_facts": "劳动者主张未签书面劳动合同二倍工资，用人单位对劳动关系、入职时间或劳动者原因提出抗辩。",
+      "court_view": "二倍工资责任需围绕用工事实、订立书面合同义务履行情况、期间和时效进行审查。",
+      "source_url": "https://www.court.gov.cn/zixun/xiangqing/472681.html",
+      "similarities": ["均需证明入职时间和未签合同事实"],
+      "differences": ["个案需核对是否存在劳动者拒签、倒签或补签情形"]
+    },
+    {
+      "source_id": "precedent:local-summary-wage-arrears-evidence",
+      "title": "拖欠工资争议证据组织规则摘要",
+      "cause": "追索劳动报酬",
+      "court": "内部知识库规则摘要",
+      "key_facts": "劳动者主张欠付工资时，常见事实包括工资标准、支付周期、欠付期间、已付金额和沟通催要过程。",
+      "court_view": "优先组织劳动合同、工资流水、工资条、考勤记录、聊天记录、欠薪确认材料等形成证据链；缺少外部来源时仅作为办案辅助规则，不作为类案引用。",
+      "source_url": null,
+      "similarities": ["可辅助识别拖欠工资案件的证明对象"],
+      "differences": ["该条仅有内部 source_id，不应当替代正式案例来源"]
+    }
+  ],
+  "document_templates": [
+    {
+      "source_id": "template:labor-arbitration-application:general",
+      "template_type": "arbitration_application",
+      "scene": "labor_general",
+      "title": "劳动仲裁申请书通用 Markdown 模板",
+      "content_md": "# 劳动仲裁申请书\n\n## 申请人\n待补充\n\n## 被申请人\n待补充\n\n## 仲裁请求\n待补充具体请求、金额和计算方式。\n\n## 事实与理由\n待补充入职时间、岗位、工资标准、争议经过和沟通过程。\n\n## 证据目录\n- 待补充劳动合同、工资流水、考勤记录、沟通记录等。\n\n## 法律依据\n待结合检索结果补充，不得虚构法条。\n\n## 尾部\n此致\n劳动人事争议仲裁委员会\n\n申请人：待补充\n日期：待补充",
+      "status": "active",
+      "topics": ["仲裁申请书", "劳动争议", "文书模板"]
+    },
+    {
+      "source_id": "template:evidence-list:labor-general",
+      "template_type": "evidence_list",
+      "scene": "labor_general",
+      "title": "劳动争议证据目录模板",
+      "content_md": "| 序号 | 证据名称 | 证明目的 | 页码/载体 | 备注 |\n|---|---|---|---|---|\n| 1 | 待补充 | 待补充 | 待补充 | 原件或完整电子数据待核验 |",
+      "status": "active",
+      "topics": ["证据目录", "劳动争议", "模板"]
+    }
+  ],
+  "limitation_rules": [
+    {
+      "source_id": "rule:labor-arbitration-limitation:general-one-year",
+      "title": "劳动仲裁一般时效规则",
+      "content": "劳动争议申请仲裁的通常时效期间为一年，从知道或者应当知道权利被侵害之日起计算。",
+      "source_ref": "law:labor-dispute-arbitration:27",
+      "status": "active",
+      "topics": ["仲裁时效", "一年", "一般规则"]
+    },
+    {
+      "source_id": "rule:wage-arrears-during-labor-relation",
+      "title": "劳动关系存续期间拖欠劳动报酬时效规则",
+      "content": "劳动关系存续期间因拖欠劳动报酬发生争议，申请仲裁不受一年仲裁时效期间限制；劳动关系终止后应关注终止之日起一年。",
+      "source_ref": "law:labor-dispute-arbitration:27",
+      "status": "active",
+      "topics": ["拖欠劳动报酬", "劳动关系存续", "终止一年"]
+    }
+  ]
+}

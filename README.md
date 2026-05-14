@@ -1,5 +1,7 @@
 # 法律咨询辅助 Multi-Agent 系统
 
+研究生毕设项目：劳动争议场景的法律咨询辅助 Multi-Agent 系统。
+
 本仓库当前完成到 M5 RAG 与知识库，包含：
 
 - `frontend`：Vue 3、TypeScript、Vite、Pinia、Vue Router、Element Plus、Axios。
